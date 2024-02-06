@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "MiaoMiao"
+  name: "MiaoMiao1111111111"
   text: "a cat site"
   tagline: My great project tagline
   actions:
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
